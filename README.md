@@ -7,7 +7,7 @@ The idea for this project was to create an mobile application that can show and 
 Users are able to find restaurants and rate them on scale 1-5, users can see the overal rating of chosen restaurant. 
 
 Technologies used:
-Application is written 100% on kotlin and using android studio, application is currently usable only on android devices.
+Application is written 100% on kotlin and using android studio, application is currently usable only on android devices. The restaurants are fetched from a website that offers data from every restaurant in Finland that has rights to serve alcoholol.
 
 
 Usecases:
